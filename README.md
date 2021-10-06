@@ -11,10 +11,12 @@ Kumpulkan tugas kalian _bisa_ dengan cara:
 :bangbang:
 jangan lupa tambahkan hasil screenshoot web di dalam file
 
+![image](https://user-images.githubusercontent.com/45342454/136215405-53ae02c5-c2d9-4b69-8d03-30150f6176dd.png)
+
 <hr>
 
 ### Tambahkan identitas dasar di sini: 
 
-Nama  :
+Nama  :Hizkia Herbin Jeremia Naibaho
 <br>
-NIM   :
+NIM   :118140036
