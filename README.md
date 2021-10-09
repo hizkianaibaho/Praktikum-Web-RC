@@ -10,10 +10,11 @@ Kumpulkan tugas kalian _bisa_ dengan cara:
 
 :bangbang:
 jangan lupa tambahkan hasil screenshoot web di dalam file
+![ss](https://user-images.githubusercontent.com/45342454/136652291-d4a5f926-0ff3-42ae-a968-60be3d032104.png)
 
-![image](https://user-images.githubusercontent.com/45342454/136215405-53ae02c5-c2d9-4b69-8d03-30150f6176dd.png)
 
 <hr>
+
 
 ### Tambahkan identitas dasar di sini: 
 
